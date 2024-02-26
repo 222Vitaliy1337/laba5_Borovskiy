@@ -1,0 +1,10 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Language" content="uk">
+</head>
+<form method="post" action="19_01.php">
+  <label for="guess">Введіть число:</label>
+  <input type="text" id="guess" name="guess">
+  <button type="submit" name="submit">Перевірка!</button>
+</form>
+asdasdsada
